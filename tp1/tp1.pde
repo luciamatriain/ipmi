@@ -1,4 +1,4 @@
-//Lucia Amatriain- Comisión 2
+//Lucia Amatriain- Comisión 2- 93495/8
 PImage paisaje;
 
 void setup() {
