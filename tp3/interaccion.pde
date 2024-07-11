@@ -5,7 +5,7 @@ void interaccion(float posX, float posY) {
 }
 
 
-//funciones que remapean los parametros de mouseX y mouseY
+//funciones que remapean mouseX y mouseY
 float remapX(int min, int max) {
   return map(mouseX, min, width, min, max);
 }
